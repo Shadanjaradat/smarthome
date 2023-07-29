@@ -8,3 +8,7 @@ The txt file living, bedroom, and kitchen display the sensor data for motion, li
 The location of these files have to be altered from within the files to be able to read them.
 Several txt files are then generated to display the state of either a specific appliance in all rooms, or all appliances within that room.
 The program runs using the user interface program which allows the user to choose the action required next.
+
+
+
+![image](https://github.com/Shadanjaradat/smarthome/assets/89996888/9f6f419a-97b4-4f2c-81fd-02f26f1bb3d5)
